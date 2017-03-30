@@ -19,7 +19,7 @@ A web browser is required to view the output.
     `python entertainment_center.py`
   - The code will run and open the web page in your browser.
   
-## Click on the link to see the code now:
+## Click on the link to see the code now:https://santhinisasidharan.github.io/Movie-Trailers-Website/fresh_tomatoes.html
 
 ## Authors:
 Santhini S  - entertainment_center.py,
