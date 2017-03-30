@@ -81,7 +81,13 @@ main_page_head = '''
             $(this).next("div").show("fast", showNext);
           });
         });
-        // Open tooltip 
+        // Open tooltip
+        
+        /***********************************
+        * Title: Bootstrap tooltip plugin
+        * Author: W3schools.com
+        *Availability :https://www.w3schools.com/bootstrap/bootstrap_tooltip.asp
+        ************************************/
         $(document).ready(function(){
             $('[data-toggle="tooltip"]').tooltip(); 
         });
