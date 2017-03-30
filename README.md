@@ -22,7 +22,7 @@ A web browser is required to view the output.
 ## Click on the link to see the code now:https://santhinisasidharan.github.io/Movie-Trailers-Website/fresh_tomatoes.html
 
 ## Authors:
-Santhini S  - entertainment_center.py,
+* Santhini S  - entertainment_center.py,
               media.py
- Udacity     - fresh_tomatoes.py
+* Udacity     - fresh_tomatoes.py
 
